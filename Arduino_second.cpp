@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <Keypad.h>
 #include <Stepper.h>
-//requirement for this code file : (1) 28BYJ-48 Step motor X 2 (2) 3D printed rail for 28BYJ-48 Step motor X 2 (3) three-pin-button X 2 (4) ULN2003 board X2 (For step motors) (5) Bread Board (6) dupont lines (7) QAPASS Lcd for Arduino (8) Arduino 4 x 4 keypad
+//requirement for this code file : (1) 28BYJ-48 Step motor X 2 (2) 3D printed rail for 28BYJ-48 Step motor X 2 (3) ULN2003 board X2 (For step motors) (4) Bread Board (5) dupont lines (6) QAPASS Lcd for Arduino (7) Arduino 4 x 4 keypad
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Maybe you need to change "0x27" here
 //Setting for keypad
 const byte ROWS = 4, COLS = 4;
