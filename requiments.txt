@@ -1,0 +1,17 @@
+You need cardboards to build the structures.
+Belows are required:
+(1)28BYJ-48 Step motor X 4
+(2) 3D printed rail for 28BYJ-48 Step motor X 4
+(3) three-pin-button X 2
+(4) ULN2003 board X4 (For step motor)
+(5) Arduino Uno X 3
+(6) Bread Board X 2
+(7) dupont lines
+(8) QAPASS Lcd for Arduino
+(9) Arduino 4 x 4 keypad
+----------------
+(10) You need to download : 
+1.Stepper.h
+2.Wire.h
+3.LiquidCrystal_I2C.h
+4.Keypad.h
